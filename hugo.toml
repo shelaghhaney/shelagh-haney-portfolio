@@ -1,0 +1,35 @@
+baseURL = "https://shelagh-haney.netlify.app/"
+languageCode = "en-us"
+title = "Shelagh Haney | Data Science & Analytics"
+theme = "PaperMod"
+paginate = 5
+
+[params]
+  author = "Shelagh Haney"
+  description = "Data Science MS Student | Business Analyst | Data Engineer"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "Hi, I'm Shelagh Haney"
+  Content = "Data Science graduate student at Northwestern University specializing in Data Engineering. Business Analyst with experience in data analysis, BI reporting, CRM systems, and project management. Based in Chicago, IL."
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/shelagh-haney"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:shelagh.haney@northwestern.edu"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/YOUR_GITHUB_USERNAME"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
