@@ -1,8 +1,7 @@
 # netlify.toml
 [build]
-  command = "hugo"
   publish = "public"
+  command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.160.1"
-  HUGO_ENV = "production"
+  HUGO_VERSION = "0.116.2"
