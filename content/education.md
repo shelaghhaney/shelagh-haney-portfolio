@@ -5,10 +5,6 @@ url: "/education/"
 summary: "education"
 ---
 
-# Education
-
----
-
 ## Northwestern University
 ### Master of Science in Data Science
 **2024 – 2027 (Expected)**

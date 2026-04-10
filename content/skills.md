@@ -5,9 +5,6 @@ url: "/skills/"
 summary: "skills"
 ---
 
-# Skills
-
----
 
 ## Programming & Query Languages
 | Skill | Proficiency |

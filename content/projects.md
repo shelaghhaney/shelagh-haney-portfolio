@@ -5,10 +5,6 @@ url: "/projects/"
 summary: "projects"
 ---
 
-# Projects & Portfolio
-
----
-
 ## Hugo Personal Portfolio Website
 **Tools:** Hugo, Go, Markdown, Git, Netlify
 

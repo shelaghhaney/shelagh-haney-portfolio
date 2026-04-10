@@ -5,10 +5,6 @@ url: "/experience/"
 summary: "experience"
 ---
 
-# Work Experience
-
----
-
 ## Northwestern University
 ### Business Analyst
 **November 2025 – Present**
@@ -29,7 +25,7 @@ summary: "experience"
 ---
 
 ### Assistant Director, Prospect Research and Management
-**May 2023 – Present**
+**May 2023 – November 2025**
 
 - Designed and implemented interactive **Tableau** dashboards and reports in 
   **Cognos BI** by gathering requirements from stakeholders and delivering 

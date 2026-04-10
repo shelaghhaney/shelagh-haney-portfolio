@@ -19,7 +19,7 @@ paginate = 5
 
 [[params.socialIcons]]
   name = "linkedin"
-  url = "https://linkedin.com/in/shelagh-haney"
+  url = "https://www.linkedin.com/in/shelagh-haney-6818397a/"
 
 [[params.socialIcons]]
   name = "email"
@@ -27,9 +27,40 @@ paginate = 5
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/YOUR_GITHUB_USERNAME"
+  url = "https://github.com/shelaghhaney"
 
 [[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "experience"
+  name = "Experience"
+  url = "/experience/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "education"
+  name = "Education"
+  url = "/education/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "skills"
+  name = "Skills"
+  url = "/skills/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 5
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 6

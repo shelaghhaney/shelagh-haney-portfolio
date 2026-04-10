@@ -16,8 +16,8 @@ potential collaborators, and employers.
 |---|---|
 | 📧 **Email** | [shelagh.haney@northwestern.edu](mailto:shelagh.haney@northwestern.edu) |
 | 📍 **Location** | Chicago, IL |
-| 💼 **LinkedIn** | [linkedin.com/in/shelagh-haney](https://linkedin.com/in/shelagh-haney) |
-| 🐙 **GitHub** | [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
+| 💼 **LinkedIn** | [linkedin.com/in/shelagh-haney-6818397a/](https://www.linkedin.com/in/shelagh-haney-6818397a/) |
+| 🐙 **GitHub** | [github.com/shelaghhaney](https://github.com/shelaghhaney) |
 
 ---
 
